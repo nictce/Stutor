@@ -6,18 +6,6 @@
 2. Click into the `ApiRequest` Class
 3. Add the key under the variable `API_KEY` as a `String`
 
-#### Example users used in the video demonstration:
-#### Assignment 2 (API V1)
-| Account Type  | Student | Tutor  |
-|---------------|---------|--------|
-| Username      | nictce  | qiyuna |
-| Password      | nictce  | teh    |
-#### Assignment 3 (API V2)
-| Account Type  | Student | Tutor  |
-|---------------|---------|--------|
-| Username      | nictan  | teh    |
-| Password      | nictan  | teh    |
-
 ### Document Links
 #### Assignment 2
 - [Class Diagram](https://git.infotech.monash.edu/fit3077-s1-2021/StuTor/project/blob/master/docs/Assignment%202%20Class%20Diagram.pdf)
